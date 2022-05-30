@@ -1,0 +1,5 @@
+#AppletViewer \u7684\u7528\u6237\u7279\u5B9A\u5C5E\u6027
+#Thu Nov 07 10:36:37 CST 2019
+http.proxyPort=80
+package.restrict.access.sun=true
+http.proxyHost=
